@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacky\\Desktop\\homework5\\P25\\P25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{506F4BA1-9F78-4B37-885C-050F3F00558B}|P25\\P25.vcxproj|C:\\Users\\jacky\\Desktop\\homework5\\P25\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\jacky\\Desktop\\homework5\\P25\\source\\Main.c",
+              "RelativeDocumentMoniker": "..\\source\\Main.c",
+              "ToolTip": "C:\\Users\\jacky\\Desktop\\homework5\\P25\\source\\Main.c",
+              "RelativeToolTip": "..\\source\\Main.c",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-30T10:02:37.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

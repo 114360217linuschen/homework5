@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacky\\Desktop\\homework5\\Q6_33\\Q6_33\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC453B2-FB31-48E5-94B0-DC79EBA8471B}|Q6_33\\Q6_33.vcxproj|C:\\Users\\jacky\\Desktop\\homework5\\Q6_33\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\jacky\\Desktop\\homework5\\Q6_33\\source\\Main.c",
+              "RelativeDocumentMoniker": "..\\source\\Main.c",
+              "ToolTip": "C:\\Users\\jacky\\Desktop\\homework5\\Q6_33\\source\\Main.c",
+              "RelativeToolTip": "..\\source\\Main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-30T12:03:27.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
